@@ -34,7 +34,6 @@ public class MainActivity  extends AppCompatActivity implements GestureDetector.
         circularProgressbar=(ProgressBar)findViewById(R.id.circularProgressbar);
         imageView = (ImageView) findViewById(R.id.imageView1);
         text=(TextView)findViewById(R.id.text1);
-
     }
 
     @Override
